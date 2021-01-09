@@ -1,2 +1,2 @@
-# 3rd-year--Database-Course-Work
+# 3rd-year 2nd Sem--Database-Course-Work
 Blog -My First Blog
